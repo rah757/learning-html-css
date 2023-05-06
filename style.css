@@ -1,3 +1,4 @@
+
 body {
     background-image: url("cherrytop.jpg");
     background-position: top center;
@@ -21,6 +22,10 @@ h1{
     
 }
 
+.index{
+    padding-left:23%;
+}
+
 #sakura {
     display: block;
     margin: 0 auto;
@@ -36,3 +41,13 @@ h3{
     color:#d77a80;
     text-align: center;
 }
+
+
+
+ul,ol{
+    color: #ffffff;
+    font-weight: bold;
+    text-indent: -33%;
+    text-align: center;
+}
+
