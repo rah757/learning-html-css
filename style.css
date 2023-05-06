@@ -1,6 +1,6 @@
 
 body {
-    background-image: url("cherrytop.jpg");
+    background-image: url("resources/cherrytop.jpg");
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -119,13 +119,13 @@ a.button1{
     text-align: center;
     font-size: 16px;
     font-weight: bold;
-    background-image: url("MElink.png");
+    background-image: url("resources/MElink.png");
     background-position-x: 80%;
     background-position-y: 80%;
   }
 
   a.button1:hover{
-    background-image: url("MElink.png");
+    background-image: url("resources/MElink.png");
     background-position-x: 90%;
     background-position-y: 80%;
   }
@@ -138,13 +138,13 @@ a.button1{
     text-align: center;
     font-size: 16px;
     font-weight: bold;
-    background-image: url("sakuralink.jpg");
+    background-image: url("resources/sakuralink.jpg");
     background-position-x: 12%;
     background-position-y: 10%;
   }
 
   a.button2:hover{
-    background-image: url("sakuralink.jpg");
+    background-image: url("resources/sakuralink.jpg");
     background-position-x: 12%;
     background-position-y: 20%;
   }
@@ -157,13 +157,13 @@ a.button1{
     text-align: center;
     font-size: 16px;
     font-weight: bold;
-    background-image: url("Lake-Kawaguchi-Tokuriki-Tomikichiro.jpg");
+    background-image: url("resources/Lake-Kawaguchi-Tokuriki-Tomikichiro.jpg");
     background-position-x: 25%;
     background-position-y: 7%;
   }
 
   a.button3:hover{
-    background-image: url("rick.png");
+    background-image: url("resources/rick.png");
     background-position-x: 32%;
     background-position-y: 40%;
   }
