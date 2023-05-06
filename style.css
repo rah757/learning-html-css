@@ -1,5 +1,12 @@
 body {
-    background: linear-gradient(#d77a80, #f5c2cc) ;
+    background-image: url("cherrytop.jpg");
+    background-position: top center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+  }
+
+body{
+    background-color: #efbdc7;
 }
 
 h1{
@@ -7,14 +14,25 @@ h1{
     text-align: center;
     font-family: Avenir, Lora, Futura, sans-serif;
     font-size: 30px;
-    background: linear-gradient(45deg, #eba2af, #d77a80);
+    background: rgba(235, 162, 175, 0.7);
     padding: 20px;
     border-radius: 11px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
 }
 
 #sakura {
     display: block;
     margin: 0 auto;
     border-radius: 18px;
+}
+
+h2{
+    color:#d77a80;
+    text-align: center;
+}
+
+h3{
+    color:#d77a80;
+    text-align: center;
 }
