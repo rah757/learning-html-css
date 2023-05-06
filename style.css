@@ -37,7 +37,7 @@ h2{
     text-align: center;
 }
 
-h3{
+h3,h4{
     color:#d77a80;
     text-align: center;
 }
@@ -76,3 +76,80 @@ th,td{
 th{
     text-decoration: underline;
 }
+
+p{
+    padding-left: 7%;
+    padding-right: 7%;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+a{
+    color: #050303;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color:aqua;
+}
+
+.links{
+    text-align: center;
+}
+
+.attri{
+    font-size: 15px;
+    text-align: center;
+}
+
+#tak{
+    color:#d77a80;
+}
+
+#tak:hover{
+    color:aqua;
+}
+
+a.button1{
+    display: inline-block;
+    padding: 10px 20px;
+    color: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    background-image: url("ME.jpg");
+    background-position-x: 80%;
+    background-position-y: 10%;
+  }
+
+  a.button1:hover{
+    background-image: url("ME.jpg");
+    background-position-x: 12%;
+    background-position-y: 10%;
+  }
+
+  a.button2{
+    display: inline-block;
+    padding: 10px 20px;
+    color: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    background-image: url("Lake-Kawaguchi-Tokuriki-Tomikichiro.jpg");
+    background-position: 50%;
+  }
+
+  a.button3{
+    display: inline-block;
+    padding: 10px 20px;
+    color: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    background-image: url("Lake-Kawaguchi-Tokuriki-Tomikichiro.jpg");
+    background-position: 70%;
+  }
