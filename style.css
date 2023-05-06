@@ -42,6 +42,9 @@ h3,h4{
     text-align: center;
 }
 
+#white{
+    color:#ffffff;
+}
 
 
 ul,ol{
@@ -52,7 +55,7 @@ ul,ol{
 }
 
 .cb{
-    background-color: rgba(228,157,173, 0.4);
+    background-image: url(resources/kaw.png);
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 25px;
