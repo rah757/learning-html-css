@@ -51,6 +51,39 @@ ul,ol{
     text-align: center;
 }
 
+.cb{
+    background-color: rgba(228,157,173, 0.4);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+}
+
+.cb:hover{
+    background-color: rgba(228,157,173, 0);
+}
+
+.ind{
+    background-color: rgba(228,157,173, 0.1);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+}
+
+.ind:hover{
+    background-color: rgba(228,157,173, 0);
+}
+
+.ind1{
+    background-color: rgba(228,157,173, 0.05);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+}
+
+.ind1:hover{
+    background-color: rgba(228,157,173, 0);
+}
+
 table{
     background-color: #e49dad;
     border-radius: 5px;
