@@ -22,9 +22,9 @@ h1{
     
 }
 
-.index{
+/*.index{
     padding-left:23%;
-}
+}*/
 
 #sakura {
     display: block;
@@ -50,8 +50,10 @@ h3,h4{
 ul,ol{
     color: #ffffff;
     font-weight: bold;
-    text-indent: -33%;
+    /*text-indent: -33%;*/
     text-align: center;
+    margin: auto;
+    width: 800px;
 }
 
 .cb{
@@ -124,6 +126,7 @@ a{
     color: #050303;
     text-decoration: none;
     font-weight: bold;
+    width: 100%;
 }
 
 a:hover{
@@ -132,6 +135,8 @@ a:hover{
 
 .links{
     text-align: center;
+    width: 350px;
+    margin: auto;
 }
 
 .attri{
