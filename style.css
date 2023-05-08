@@ -1,4 +1,3 @@
-
 body {
     background-image: url("resources/cherrytop.jpg");
     background-position: top center;
@@ -54,6 +53,7 @@ ul,ol{
     text-align: center;
     margin: auto;
     width: 800px;
+    max-width: 90vw;
 }
 
 .cb{
@@ -120,6 +120,7 @@ p{
     padding-right: 7%;
     color: #ffffff;
     font-weight: bold;
+    max-width: 90vw;
 }
 
 a{
